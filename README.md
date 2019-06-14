@@ -9,7 +9,7 @@ my c v
  <tr>
     <td>
 
-       <img src="C:\Users\Admin\Desktop\images\pallavi.jpg"alt="pictures\images.jpg" height="200" width="200">
+       <img src="pallavi.jpg"alt="pictures\images.jpg" height="200" width="200">
   </td>
   <td>
 <h1 align="center">  PALLAVI  </h1>
@@ -29,10 +29,6 @@ my c v
 <h6>INTRESTS:</h6>
 <p> watching online videos of programming languages.</p><br>
 
-<form action="index.html"method="get">
- First Name : <input type="text"name="fname"><br>
- Last Name  : <input type="text"name="lname"><br>
-<input type="submit" value="submit">
-</form>
+
 </body>
 </html>
